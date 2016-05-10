@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository as hello-world,I hope can be a new story.
+This is my first repository as hello-world,I hope this should be a new story.
