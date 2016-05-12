@@ -46,8 +46,8 @@ This is an H2
 
 ## 嵌套的列表:
 1. item
-    1.1 item
-    1.2 item
+  1.1 item
+  1.2 item
 
 注意： 嵌套列表要缩进2个空格
 
