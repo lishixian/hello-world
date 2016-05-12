@@ -19,28 +19,28 @@ This is an H2
 两段文字之间至少要留有一个空行
 
 # 3. 字体
-斜体： *This text will be italic* <br />  
-粗体：**This text will be bold** <br />  
-粗斜体：***text*** <br />  
+斜体： *This text will be italic* <br />
+粗体：**This text will be bold** <br />
+粗斜体：***text*** <br />
 
 # 4. 列表：
 ## 4.1 无序号的列表
-* item <br />  
-* item<br />  
-或者<br />  
-- item<br />  
-- item<br />  
+* item <br />
+* item<br />
+或者<br />
+- item<br />
+- item<br />
 注意： *和-要与列表内容之间要有空格， *是实心的圆点，-是空心的圆点
 
 ## 4.2 有序号的列表:
-1. item<br />  
-2. item<br />  
-注意： 列表序号与列表内容之间要有空格<br />  
+1. item<br />
+2. item<br />
+注意： 列表序号与列表内容之间要有空格<br />
 
 ## 4.3 嵌套的列表:
-1. item<br />  
-  1.1 item<br />  
-  1.2 item<br />  
+1. item<br />
+  1.1 item<br />
+  1.2 item<br />
 注意： 嵌套列表要缩进2个空格
 
 # 5. 单行文本框  
@@ -64,12 +64,10 @@ This is an H2
 [点击这里你可以链接到www.google.com](http://www.google.com)<br /> 
 
 # 10. 文字被些字符包围  
-> 文字被些字符包围  
->  
-> 只要在文字前面加上>空格即可  
->  
-> 如果你要换行的话,新起一行,输入>空格即可,后面不接文字  
-> 但> 只能放在行首才有效  
+> 文字被些字符包围，只要在文字前面加上>空格即可
+> 换行后开头加>和空格
+>换行后开头加>不加空格
+换行后不加>
   
 # 11. 文字被些字符包围,多重包围  
 > 文字被些字符包围开始  
