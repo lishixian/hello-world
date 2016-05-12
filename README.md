@@ -20,7 +20,9 @@ This is an H2
 
 # 字体
 斜体： *This text will be italic* 
+
 粗体：**This text will be bold** 
+
 粗斜体：***text*** 
 
 # 列表：
@@ -36,15 +38,18 @@ This is an H2
 注意： *和-要与列表内容之间要有空格， *是实心的圆点，-是空心的圆点
 
 ## 有序号的列表:
+
 1. item
 2. item
+
 注意： 列表序号与列表内容之间要有空格
 
-## 嵌套的列表 Nested Lists:
+## 嵌套的列表:
 1. item
-  1.1 item
-  1.2 item
-注意： 嵌套列表要缩进2个空格  indenting list items by two spaces
+    1.1 item
+    1.2 item
+
+注意： 嵌套列表要缩进2个空格
 
 引用(引用文字前填加 >)：
 > 引用文本
